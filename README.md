@@ -62,7 +62,7 @@ Alterando a constante:
 
 ## 🎥 Gerando Evidências (Vídeos)
 
-No arquivo cypress.config.js, adicione dentro de e2e:
+No arquivo cypress.config.js, adicione abaixo de e2e:
 ```bash
 video: true,
 ```
