@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Cypress artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/results/
+cypress/reports/
+
+# Environment file
+cypress.env.json
+
+# Logs
+logs/
+
+# Temp files
+*.tmp
